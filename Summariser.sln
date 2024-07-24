@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFSummariser", "PDFSummariser\PDFSummariser.csproj", "{010C98D2-02A2-4D2A-B47C-D3255C5169FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{010C98D2-02A2-4D2A-B47C-D3255C5169FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010C98D2-02A2-4D2A-B47C-D3255C5169FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010C98D2-02A2-4D2A-B47C-D3255C5169FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010C98D2-02A2-4D2A-B47C-D3255C5169FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {074BB0CC-8C78-4EAF-9570-ECFEEE464F36}
+	EndGlobalSection
+EndGlobal
